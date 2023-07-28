@@ -1,0 +1,45 @@
+DOTComply PRO Privacy Policy
+
+Last Updated: July 27, 2023
+
+This Privacy Policy describes how your personal information is collected, used, and shared when you use the DOTComply PRO mobile application (hereafter, the "App") available on the Google Play Store.
+
+INFORMATION WE COLLECT
+When you install the App and use it, we automatically collect certain information from your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device.
+
+Specifically, we collect:
+
+Device information: such as operating system version, device type, system performance information, and browser type.
+Usage information: such as your interactions with the App, like which features are used and the frequency of use.
+Location information: only if you allow us to do so, we collect information about your location through IP address, GPS, or other means.
+We do not collect personally identifiable information like names, email addresses, contact numbers unless explicitly provided by you for specific services within the App.
+
+HOW DO WE USE YOUR INFORMATION?
+We use the information we collect from you to:
+
+Improve and optimize the App
+Identify and fix potential issues with the App
+Enhance user experience
+Provide customer support
+Conduct analytics and create internal reports
+SHARING YOUR PERSONAL INFORMATION
+We do not sell your personal information to third parties. However, we may share your personal information with third-party service providers to help us use your personal information, as described above. For example, we use Google Analytics to understand how our users use the App--you can read more about how Google uses your personal information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+YOUR RIGHTS
+If you are a resident of certain countries, you have the right to access the personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+DATA RETENTION
+When you use the App, we will maintain your information for our records unless and until you ask us to delete this information.
+
+CHANGES
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.
+
+CONTACT US
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at privacy@dotcomplypro.com or by mail using the details provided below:
+
+
+By using our App, you consent to our Privacy Policy.
+
+If you do not agree with this policy, please do not access or use our Services or interact with any other aspect of our business.
+
+Thank you for choosing DOTComply PRO!
